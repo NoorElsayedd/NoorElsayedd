@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Noor</h1>
-<h3 align="center">A passionate frontend & flutter developer</h3>
 
 - 📫 How to reach me **Nsayed2211@gmail.com**
 
